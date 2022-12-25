@@ -1,0 +1,3 @@
+pymongo[srv]==4.3.3   # srv for mongodb cloud connection -- Atlas
+-e .  # equivalent to packages=find_packages() in setup.py, first it will find setup.py & execute it
+certifi==2022.12.7
